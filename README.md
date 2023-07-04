@@ -3,10 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somaiaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="somaiaahmed" /> </p>
 
-- 📫 How to reach me *somaia.ahmed03@gmail.com**
+- 📫 How to reach me **somaia.ahmed03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/somaia ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somaia ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somaiaahmed&show_icons=true&locale=en&layout=compact" alt="somaiaahmed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somaiaahmed&show_icons=true&locale=en" alt="somaiaahmed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somaiaahmed&" alt="somaiaahmed" /></p>
