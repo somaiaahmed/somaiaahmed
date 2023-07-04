@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somaiaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="somaiaahmed" /> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/somaia-ahmed-192b2318b/**
+- 📫 How to reach me *somaia.ahmed03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
