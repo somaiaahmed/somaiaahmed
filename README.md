@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Somaia Ahmed</h1>
-<h3 align="center">A Biomedical Engineering student from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somaiaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="somaiaahmed" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Somaia's+Github!" alt="Typing SVG" /></a>
 
-- 📫 How to reach me **somaia.ahmed03@gmail.com**
+- 🏫 From Giza, Egypt
+- 👩🏻‍💻 Student at Faculty of Engineering - Cairo University
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h3 align="left">Connect with me 🙋🏻‍♀️:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/somaia ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somaia ahmed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/somaia_ahmed03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/somaia_ahmed03" height="30" width="40" /></a>
+  <a href="mailto:somaia.ahmed03@gmail.com"><img align = "center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="30" width="40"/>
+</a><a href="https://www.hackerrank.com/https://www.hackerrank.com/somaia_ahmed03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/somaia_ahmed03" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/somaia03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="somaia03" height="30" width="40" /></a>
 </p>
 
