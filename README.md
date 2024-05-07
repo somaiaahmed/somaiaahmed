@@ -80,4 +80,11 @@
 <!--   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
 </a>  -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somaiaahmed&show_icons=true&&&theme=dark&locale=en&layout=compact" alt="somaiaahmed" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somaiaahmed&show_icons=true&&&theme=dark&locale=en" alt="somaiaahmed" /></p>
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somaia-ahmed&" alt="somaiaahmed" /></p> -->
+
 </p>
